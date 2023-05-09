@@ -3,7 +3,7 @@ Steps to contribute to NZC internal repo
 
 # Github setup:
 1.	Set up a github account using your salesforce.com email: https://github.com/ 
-2.	Log a ticket for TMP Network Access Request: https://concierge.it.salesforce.com/articles/en_US/Supportforce_Article/How-to-Gain-Access-to-the-SFM-Aloha-tile
+2.	Log a ticket for TMP Network Access Request (this is approved by your manager): https://concierge.it.salesforce.com/articles/en_US/Supportforce_Article/How-to-Gain-Access-to-the-SFM-Aloha-tile
 3.	Link your account with soma.salesforce.com
 
 # To pull from an environment and push to github using Workbench:
